@@ -21,25 +21,37 @@
 }
 .buttons{
     padding: 20px;
-    position: fixed;
-    left: 45%;
-    right: 40%;
-    
-}
-.buttons2{
-    padding: 20px;
-    position: fixed;
-    left: 45%;
-    right: 40%;
-    
-}
-.buttons3{
-    padding: 20px;
-    position: fixed;
-    left: 45%;
-    right: 40%;
-    
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+   
 }
 .space{
     padding: 20px;
+    background-color: #1D2D44;
+}
+.headline-dark{
+    text-align: center;
+}
+.pic{
+ border: solid 5px #3E5C76;
+}
+.pictures{
+    background-color:#1D2D44;
+    padding: 200px
+}
+.skills{
+    padding: 100;
+    border: solid 10px #1D2D44;
+}
+.footer{
+    background-color: #0D1321;
+}
+.pictures,.footer{
+    overflow: hidden;
+}
+.footer0,.footer1,.footer2{
+    width: 33%;
+    float: left;
+    padding: 30px;
 }
