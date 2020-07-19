@@ -1,0 +1,45 @@
+.headline{
+    text-align: center;
+    color: #F0EBD8;
+}
+.header{
+    padding: 150px;
+    background-color: #3E5C76;
+}
+
+.about{
+    background-color: #1D2D44;
+    padding: 80px;
+    color: #F0EBD8;
+}
+.writedown{
+    font-size: 20px;
+    text-align: center
+}  
+.list{
+    border: relative 5px
+}
+.buttons{
+    padding: 20px;
+    position: fixed;
+    left: 45%;
+    right: 40%;
+    
+}
+.buttons2{
+    padding: 20px;
+    position: fixed;
+    left: 45%;
+    right: 40%;
+    
+}
+.buttons3{
+    padding: 20px;
+    position: fixed;
+    left: 45%;
+    right: 40%;
+    
+}
+.space{
+    padding: 20px;
+}
